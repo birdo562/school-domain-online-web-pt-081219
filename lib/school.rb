@@ -18,5 +18,5 @@ def grade(number)
   @roster[number]
 end
 def sort
-  
+  @roster.each do |
 end
